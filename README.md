@@ -44,6 +44,11 @@ The output of the project is an HTML-formatted resume, which is generated using 
 - Error Handling :
   - Added error handling to ensure that invalid API keys, file types, or API request issues are managed gracefully, displaying appropriate messages to the user.
 
+## Preview of the Website
+
+![Home Page](Images/Input.png)
+
+
 ## How to Run Locally
 - Clone the repository :
   ```javascript
